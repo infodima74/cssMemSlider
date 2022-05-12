@@ -171,14 +171,11 @@ body {
 .slider-info{
     position: relative;
     width: 80vw;
-
-    
 }
 
 @media screen and (max-width: 768px){
     .wrapper{
         display:block;
-        
         height: 80vh;
         margin: 20px auto 0;
         position: relative;
