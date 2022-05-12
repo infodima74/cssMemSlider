@@ -97,7 +97,6 @@ body {
 	transition: background ease-in-out .5s;
     background-color: #082bff;
 }
-
 .wrapper label:hover, 
 #slide1:checked ~ .controls label:nth-of-type(1),
 #slide2:checked ~ .controls label:nth-of-type(2),
@@ -146,9 +145,7 @@ body {
 	-o-transition: transform ease-in-out .5s, opacity ease-in-out .5s;
 	transition: transform ease-in-out .5s, opacity ease-in-out .5s;
     width: 1vw;
-  
-}
-
+  }
 
 .text {
     font-size: 16px;
